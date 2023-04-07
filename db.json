@@ -1,4 +1,5 @@
-[
+{
+  "events": [
     {
       "id": 123,
       "category": "animal welfare",
@@ -30,3 +31,4 @@
       "organizer": "Carey Wales"
     }
   ]
+}
